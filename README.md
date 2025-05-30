@@ -2,6 +2,7 @@
 # 🍷 Wine Menu
 [![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![image](https://img.shields.io/badge/Wine-%23d70000.svg?style=for-the-badge&logo=Wine&logoColor=ffffff)](https://www.winehq.org/)
 
 Script Menu that lets you access all Wine's settings and launch pre-installed programs and third-party Wine derivatives.
 
